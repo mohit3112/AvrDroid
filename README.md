@@ -1,5 +1,5 @@
 # Avrdroid
-bluetooth based over the air programming  for atmel microcontroller<br />
+Bluetooth based over the air programming  for atmel microcontroller<br />
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////<br />
 boot1.c         ---------------->    actual boot loader code<br />
 bootloader.dsn  ---------------->    proteus simulation file<br />
