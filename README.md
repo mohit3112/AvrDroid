@@ -9,4 +9,4 @@
 2. Converting to hex    : avr-objcopy -j .text -j .data -j .app -j .myinit -O ihex a.out boot1.hex
 
 ## Schematics 
-![picture alt](https://github.com/mohit3112/AvrDroid/blob/master/hardware/bootloader/AVRDroid.png "AVRDROID BOOARD")
+![picture alt](https://github.com/mohit3112/AvrDroid/blob/master/hardware/AVRDroid.png "AVRDROID BOOARD")
